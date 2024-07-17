@@ -1,1 +1,1 @@
-## Part one of JavaScript series.(Basics)
+## JavaScript part one (Basics).
