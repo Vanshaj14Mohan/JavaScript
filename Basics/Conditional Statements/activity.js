@@ -33,3 +33,18 @@ else if(marks >=60){
 else{
     console.log("D");
 }
+
+//Exercise
+let size ="M";
+if(size ==="XL"){
+    console.log("Popcorn price is:", 250);
+}
+else if(size === "L"){
+    console.log("Popcorn prize is:", 200);
+}
+else if(size === "M"){
+    console.log("Popcorn prize is:", 100);
+}
+else{
+    console.log("Popcorn prize is:", 50);
+}
