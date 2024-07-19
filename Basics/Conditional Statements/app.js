@@ -1,6 +1,6 @@
 //Conditional Statement
 console.log("If statement start")
-let age = 24;
+let age = 22;
 if (age > 20){
     console.log("Allowed to get license")
 }
