@@ -64,3 +64,9 @@ if((num1%10)== (num2%10)){
 else{
     console.log("numbers don't have the same last digit");
 }
+
+//6 Take the user's name & age as input using prompts, then return back the following statement to the user as an alert(by substituting their name & age)
+//name is age years old, [Use template literals to print this sentence].
+let name = prompt("enter name");
+let age = prompt("enter age");
+alert(`${name} is ${age} years old.`);
