@@ -56,6 +56,7 @@ else{
 }
 
 //5 Write a program to check if 2 numbers have the same last digit eg. 32 and 47852 have the same last digit ie.2.
+console.log("Question 5");
 let num1 = 32;
 let num2 = 47852;
 if((num1%10)== (num2%10)){
@@ -67,6 +68,7 @@ else{
 
 //6 Take the user's name & age as input using prompts, then return back the following statement to the user as an alert(by substituting their name & age)
 //name is age years old, [Use template literals to print this sentence].
+console.log("Question 6");
 let name = prompt("enter name");
 let age = prompt("enter age");
 alert(`${name} is ${age} years old.`);
